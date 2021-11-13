@@ -1,4 +1,27 @@
-### Hi there 👋
+
+![alt text](https://github.com/MarwahBakoor/MarwahBakoor/blob/main/Marwah%20Bakoor.png)
+# Hi 👋
+
+I am Marwah Bakoor! <br>
+*Currently*
+- Electrical and Computer Engineering Student at KAU <br>
+- Software Engineer intern at Diginaton
+
+## 🔭 I’m currently working on 
+- Front-end deveolpment
+- Low-code deveolpment using Outsystems
+
+## 🌱 I am currently Learning 
+- Backend development using Django
+- Mobile development using React Native
+
+### Languages:
+| JS | CSS | HTML | PHP | MySQL | Python | Java | Matlab
+
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marwah-bakoor/)
+
+
 
 <!--
 **MarwahBakoor/MarwahBakoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
