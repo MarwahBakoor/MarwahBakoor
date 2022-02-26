@@ -12,7 +12,7 @@ I am Marwah Bakoor! <br>
 - Low-code deveolpment using Outsystems
 
 ## 🌱 I am currently Learning 
-- Backend development using Django
+- Backend development
 - Mobile development using React Native
 
 ### Languages:
