@@ -16,7 +16,7 @@ I am Marwah Bakoor! <br>
 - Mobile development using React Native
 
 ### Languages:
- JS | CSS | HTML | PHP | MySQL | Python | Java | Matlab
+ JS | CSS | HTML | Python | Java | Matlab
 
 
 
