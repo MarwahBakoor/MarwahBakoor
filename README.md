@@ -5,8 +5,8 @@
 I am Marwah Bakoor! <br>
 *Currently*
 - Electrical and Computer Engineering Student at KAU <br>
-- Software Engineer intern at Diginaton
 
+<!--
 ## 🔭 I’m currently working on 
 - Front-end deveolpment
 - Low-code deveolpment using Outsystems
@@ -14,7 +14,7 @@ I am Marwah Bakoor! <br>
 ## 🌱 I am currently Learning 
 - Backend development
 - Mobile development using React Native
-
+-->
 ### Languages:
  JS | CSS | HTML | Python | Java | Matlab
 
