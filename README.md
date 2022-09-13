@@ -16,7 +16,7 @@ I am Marwah Bakoor! <br>
 - Mobile development using React Native
 -->
 ### Languages:
- JS | CSS | HTML | Python | Java | Matlab
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwahBakoor)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
