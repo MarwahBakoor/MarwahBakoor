@@ -4,15 +4,12 @@
 
 I am Marwah Bakoor! <br>
 *Currently*
-- Electrical and Computer Engineering Student at KAU <br>
+- Software Engineer at Resal <br>
 
 <!--
 ## 🔭 I’m currently working on 
-- Front-end deveolpment
-- Low-code deveolpment using Outsystems
-
-## 🌱 I am currently Learning 
-- Backend development
+- Front-end development using React
+- Backe-end development using Node.JS
 - Mobile development using React Native
 -->
 ### Languages:
