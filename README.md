@@ -6,12 +6,13 @@ I am Marwah Bakoor! <br>
 *Currently*
 - Software Engineer at Resal <br>
 
-<!--
+
 ## 🔭 I’m currently working on 
 - Front-end development using React
 - Backe-end development using Node.JS
 - Mobile development using React Native
--->
+
+
 ### Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwahBakoor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
