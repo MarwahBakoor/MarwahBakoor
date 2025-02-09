@@ -4,7 +4,7 @@
 
 I am Marwah Bakoor! <br>
 *Currently*
-- Software Engineer at Resal <br>
+- Software Engineer at Mozn <br>
 
 
 ## 🔭 I’m currently working on 
